@@ -21,7 +21,7 @@ This document details the steps taken to create a script for managing our user's
 1. This assignment was completed within [PyChar](https://www.jetbrains.com/pycharm/download/#section=windows)[m](https://www.jetbrains.com/pycharm/download/#section=windows)[(](https://www.jetbrains.com/pycharm/download/#section=windows)Jet Brains, 2022).
 
 1. Within PyCharm, I opened the Lab7-1\_Starter.py that was provided with this week's course materials. Our module notes this week (\_MOD7PYTHONPROGRAMMINGNOTES.DOCX 2022, PG 14) contained an exercise that got us practicing pickling.
- ![](RackMultipart20221201-1-u2jf0j_html_74596d2dbfc6fe8f.png)
+ ![](Images/Picture1.png)
 
 _Figure 1 Lab 7-1 served as the initial inspiration behind our eventual, completed script. Note the use of **import pickle** to signify what functions we will need to complete under **save\_data\_to\_file** and **read\_data\_from\_file** functions._
 
