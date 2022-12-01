@@ -88,7 +88,7 @@ _Figure 11 Our resulting list of bunnies from our above print statement in Figur
 
 _Figure 12 Above is a demonstration of Exception Handling that presents our user with a custom message if they try to input a value that is not an integer for their Rabbit ID_
 
-1. We now have our script complete!
+1. We now have our script complete!_
  ![](Images/Picture13.png)
 
 _Figure 9 Completed Assignment 07. As shown in PyCharm._
